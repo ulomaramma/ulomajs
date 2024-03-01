@@ -1,0 +1,9 @@
+{
+
+    "name" : "ulomacli",
+    "version": "1.0.0",
+    "bin" : {
+
+        "ulomacli": "index.js"
+    }
+}
